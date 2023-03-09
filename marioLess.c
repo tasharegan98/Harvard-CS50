@@ -32,7 +32,6 @@ void printBlock(int size)
         for (int j = size - 1; j > i; j--)
         {
             printf(".");
-            //remove 1 from end of each line
         }
 
         //print # 
